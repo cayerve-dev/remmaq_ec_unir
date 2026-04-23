@@ -16,3 +16,4 @@ ETL/logs/*.log
 
 # Jupyter
 .ipynb_checkpoints/
+ETL/ejecucion-manual-ETL.txt
