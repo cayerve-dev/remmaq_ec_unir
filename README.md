@@ -239,12 +239,12 @@ Si utilizas este trabajo en tu investigación:
 
 ```bibtex
 @mastersthesis{ayerve2026remmaq,
-  author    = {Ayerve Ramos, Cesar Patricio and Lema Ushi{\~n}a, Joselin Yadira},
-  title     = {Gesti{\'o}n anal{\'i}tica de episodios contaminantes en Quito, Ecuador (REMMAQ):
+  author    = {Ayerve Ramos, Cesar Patricio and Lema Ushiña, Joselin Yadira},
+  title     = {Gestión analítica de episodios contaminantes en Quito, Ecuador (REMMAQ):
                ETL multitemporal, KPIs y visual analytics},
   school    = {Universidad Internacional de La Rioja (UNIR)},
   year      = {2026},
-  type      = {Trabajo Fin de M{\'a}ster}
+  type      = {Trabajo Fin de Máster}
 }
 ```
 
