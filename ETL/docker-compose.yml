@@ -1,0 +1,35 @@
+name: ETL_NiFi
+services:
+  nifi:
+    build:
+      context: .
+      dockerfile: docker/nifi/Dockerfile
+    container_name: nifi
+    ports:
+      - "8080:8080"   # UI: http://localhost:8080/nifi
+    environment:
+      - TZ=America/Guayaquil
+      - JAVA_TOOL_OPTIONS=-Duser.timezone=America/Guayaquil
+      - NIFI_WEB_HTTP_PORT=8080
+      - NIFI_JVM_HEAP_INIT=1g
+      - NIFI_JVM_HEAP_MAX=2g
+    volumes:
+      - ./scripts:/opt/etl/scripts
+      - ./logs:/opt/etl/logs
+      - ../ETL/data:/opt/etl/data
+      - ./geoportal:/opt/etl/geoportal:ro
+      # Persistencia de NiFi
+      - nifi-conf:/opt/nifi/nifi-current/conf
+      - nifi-state:/opt/nifi/nifi-current/state
+      - nifi-content:/opt/nifi/nifi-current/content_repository
+      - nifi-database:/opt/nifi/nifi-current/database_repository
+      - nifi-flowfile:/opt/nifi/nifi-current/flowfile_repository
+      - nifi-provenance:/opt/nifi/nifi-current/provenance_repository
+
+volumes:
+  nifi-conf:
+  nifi-state:
+  nifi-content:
+  nifi-database:
+  nifi-flowfile:
+  nifi-provenance:

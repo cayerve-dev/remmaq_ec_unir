@@ -1,0 +1,18 @@
+# Excluir datos extraídos (archivos pesados) — excepto uno de muestra
+ETL/data/remmaq/extraidos/*.xlsx
+!ETL/data/remmaq/extraidos/CO_2.xlsx
+
+# Excluir datos originales y normalizados si son pesados
+ETL/data/remmaq/originales/
+ETL/data/remmaq/normalizados/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Logs
+ETL/logs/*.log
+
+# Jupyter
+.ipynb_checkpoints/

@@ -1,0 +1,70 @@
+{
+  "name": "Quito Aire (SMI-style)",
+  "dataColors": [
+    "#1F5AA6",
+    "#2F80ED",
+    "#27AE60",
+    "#F2C94C",
+    "#F2994A",
+    "#EB5757",
+    "#6B7280",
+    "#111827"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#111827",
+  "tableAccent": "#1F5AA6",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI",
+            "fontSize": 12,
+            "color": {
+              "solid": {
+                "color": "#111827"
+              }
+            }
+          }
+        ],
+        "labels": [
+          {
+            "fontFamily": "Segoe UI",
+            "color": {
+              "solid": {
+                "color": "#111827"
+              }
+            }
+          }
+        ],
+        "legend": [
+          {
+            "fontFamily": "Segoe UI"
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#E5E7EB"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

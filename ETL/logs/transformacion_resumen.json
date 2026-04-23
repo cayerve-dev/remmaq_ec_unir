@@ -1,0 +1,1 @@
+{"estado": "OK", "schema_version": "3.0.0", "mensaje": "JSON generados correctamente", "ruta_salida": "/opt/etl/data/remmaq/normalizados", "timestamp": "2026-02-15T20:57:23.913778", "include_diario": false, "no_nulls": false}

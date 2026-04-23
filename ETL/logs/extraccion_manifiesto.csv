@@ -1,0 +1,49 @@
+dataset,file_url,out_path,status,bytes,timestamp
+- DATOS MONOXIDO CARBONO (CO),https://datosambiente.quito.gob.ec/datos/CO.rar,/opt/etl/data/remmaq/originales/CO.rar,descargado,10105962,2026-01-26T19:14:17.927944+00:00
+- DATOS DIOXIDO DE NITROGENO (NO2),https://datosambiente.quito.gob.ec/datos/NO2.rar,/opt/etl/data/remmaq/originales/NO2.rar,descargado,11152181,2026-01-26T19:14:52.948901+00:00
+- DATOS OZONO (O3),https://datosambiente.quito.gob.ec/datos/O3.rar,/opt/etl/data/remmaq/originales/O3.rar,descargado,13544850,2026-01-26T19:16:01.300426+00:00
+- DATOS PARTICULAS MENORES A 2.5 MICROMETROS (PM2.5),https://datosambiente.quito.gob.ec/datos/PM2.5.rar,/opt/etl/data/remmaq/originales/PM2.5.rar,descargado,12060467,2026-01-26T19:16:50.557398+00:00
+- DATOS PARTICULAS MENORES A 10 MICROMETROSS (PM10),https://datosambiente.quito.gob.ec/datos/PM10.rar,/opt/etl/data/remmaq/originales/PM10.rar,descargado,2992174,2026-01-26T19:17:02.619845+00:00
+- DATOS DIOXIDO DE AZUFRE (SO2),https://datosambiente.quito.gob.ec/datos/SO2.rar,/opt/etl/data/remmaq/originales/SO2.rar,descargado,11080121,2026-01-26T19:17:48.705872+00:00
+- DATOS MONOXIDO CARBONO (CO),https://datosambiente.quito.gob.ec/datos/CO.rar,/opt/etl/data/remmaq/originales/CO.rar,extraido,0,2026-01-26T19:17:49.003574+00:00
+- DATOS DIOXIDO DE NITROGENO (NO2),https://datosambiente.quito.gob.ec/datos/NO2.rar,/opt/etl/data/remmaq/originales/NO2.rar,extraido,0,2026-01-26T19:17:49.325907+00:00
+- DATOS OZONO (O3),https://datosambiente.quito.gob.ec/datos/O3.rar,/opt/etl/data/remmaq/originales/O3.rar,extraido,0,2026-01-26T19:17:49.699593+00:00
+- DATOS PARTICULAS MENORES A 2.5 MICROMETROS (PM2.5),https://datosambiente.quito.gob.ec/datos/PM2.5.rar,/opt/etl/data/remmaq/originales/PM2.5.rar,extraido,0,2026-01-26T19:17:50.035696+00:00
+- DATOS PARTICULAS MENORES A 10 MICROMETROSS (PM10),https://datosambiente.quito.gob.ec/datos/PM10.rar,/opt/etl/data/remmaq/originales/PM10.rar,extraido,0,2026-01-26T19:17:50.165709+00:00
+- DATOS DIOXIDO DE AZUFRE (SO2),https://datosambiente.quito.gob.ec/datos/SO2.rar,/opt/etl/data/remmaq/originales/SO2.rar,extraido,0,2026-01-26T19:17:50.470300+00:00
+- DATOS MONOXIDO CARBONO (CO),https://datosambiente.quito.gob.ec/datos/CO.rar,/opt/etl/data/remmaq/originales/CO.rar,descargado,10267601,2026-02-15T20:22:40.334166+00:00
+- DATOS DIOXIDO DE NITROGENO (NO2),https://datosambiente.quito.gob.ec/datos/NO2.rar,/opt/etl/data/remmaq/originales/NO2.rar,descargado,11782564,2026-02-15T20:23:21.053157+00:00
+- DATOS OZONO (O3),https://datosambiente.quito.gob.ec/datos/O3.rar,/opt/etl/data/remmaq/originales/O3.rar,descargado,12796062,2026-02-15T20:23:58.052378+00:00
+- DATOS PARTICULAS MENORES A 2.5 MICROMETROS (PM2.5),https://datosambiente.quito.gob.ec/datos/PM2.5.rar,/opt/etl/data/remmaq/originales/PM2.5.rar,descargado,10580893,2026-02-15T20:24:32.035732+00:00
+- DATOS PARTICULAS MENORES A 10 MICROMETROSS (PM10),https://datosambiente.quito.gob.ec/datos/PM10.rar,/opt/etl/data/remmaq/originales/PM10.rar,descargado,2978227,2026-02-15T20:24:43.851304+00:00
+- DATOS DIOXIDO DE AZUFRE (SO2),https://datosambiente.quito.gob.ec/datos/SO2.rar,/opt/etl/data/remmaq/originales/SO2.rar,descargado,10021651,2026-02-15T20:25:13.967031+00:00
+- DATOS MONOXIDO CARBONO (CO),https://datosambiente.quito.gob.ec/datos/CO.rar,/opt/etl/data/remmaq/originales/CO.rar,extraido,0,2026-02-15T20:25:14.162779+00:00
+- DATOS DIOXIDO DE NITROGENO (NO2),https://datosambiente.quito.gob.ec/datos/NO2.rar,/opt/etl/data/remmaq/originales/NO2.rar,extraido,0,2026-02-15T20:25:14.369985+00:00
+- DATOS OZONO (O3),https://datosambiente.quito.gob.ec/datos/O3.rar,/opt/etl/data/remmaq/originales/O3.rar,extraido,0,2026-02-15T20:25:14.609357+00:00
+- DATOS PARTICULAS MENORES A 2.5 MICROMETROS (PM2.5),https://datosambiente.quito.gob.ec/datos/PM2.5.rar,/opt/etl/data/remmaq/originales/PM2.5.rar,extraido,0,2026-02-15T20:25:14.807478+00:00
+- DATOS PARTICULAS MENORES A 10 MICROMETROSS (PM10),https://datosambiente.quito.gob.ec/datos/PM10.rar,/opt/etl/data/remmaq/originales/PM10.rar,extraido,0,2026-02-15T20:25:14.888661+00:00
+- DATOS DIOXIDO DE AZUFRE (SO2),https://datosambiente.quito.gob.ec/datos/SO2.rar,/opt/etl/data/remmaq/originales/SO2.rar,extraido,0,2026-02-15T20:25:15.119439+00:00
+- DATOS MONOXIDO CARBONO (CO),https://datosambiente.quito.gob.ec/datos/CO.rar,/opt/etl/data/remmaq/originales/CO.rar,descargado,10267601,2026-02-15T20:35:25.583490+00:00
+- DATOS DIOXIDO DE NITROGENO (NO2),https://datosambiente.quito.gob.ec/datos/NO2.rar,/opt/etl/data/remmaq/originales/NO2.rar,descargado,11782564,2026-02-15T20:36:07.462018+00:00
+- DATOS OZONO (O3),https://datosambiente.quito.gob.ec/datos/O3.rar,/opt/etl/data/remmaq/originales/O3.rar,descargado,12796062,2026-02-15T20:36:50.088702+00:00
+- DATOS PARTICULAS MENORES A 2.5 MICROMETROS (PM2.5),https://datosambiente.quito.gob.ec/datos/PM2.5.rar,/opt/etl/data/remmaq/originales/PM2.5.rar,descargado,10580893,2026-02-15T20:37:33.271237+00:00
+- DATOS PARTICULAS MENORES A 10 MICROMETROSS (PM10),https://datosambiente.quito.gob.ec/datos/PM10.rar,/opt/etl/data/remmaq/originales/PM10.rar,descargado,2978227,2026-02-15T20:37:38.557169+00:00
+- DATOS DIOXIDO DE AZUFRE (SO2),https://datosambiente.quito.gob.ec/datos/SO2.rar,/opt/etl/data/remmaq/originales/SO2.rar,descargado,10021651,2026-02-15T20:38:14.299941+00:00
+- DATOS MONOXIDO CARBONO (CO),https://datosambiente.quito.gob.ec/datos/CO.rar,/opt/etl/data/remmaq/originales/CO.rar,extraido,0,2026-02-15T20:38:14.629996+00:00
+- DATOS DIOXIDO DE NITROGENO (NO2),https://datosambiente.quito.gob.ec/datos/NO2.rar,/opt/etl/data/remmaq/originales/NO2.rar,extraido,0,2026-02-15T20:38:14.958560+00:00
+- DATOS OZONO (O3),https://datosambiente.quito.gob.ec/datos/O3.rar,/opt/etl/data/remmaq/originales/O3.rar,extraido,0,2026-02-15T20:38:15.339164+00:00
+- DATOS PARTICULAS MENORES A 2.5 MICROMETROS (PM2.5),https://datosambiente.quito.gob.ec/datos/PM2.5.rar,/opt/etl/data/remmaq/originales/PM2.5.rar,extraido,0,2026-02-15T20:38:15.639523+00:00
+- DATOS PARTICULAS MENORES A 10 MICROMETROSS (PM10),https://datosambiente.quito.gob.ec/datos/PM10.rar,/opt/etl/data/remmaq/originales/PM10.rar,extraido,0,2026-02-15T20:38:15.760127+00:00
+- DATOS DIOXIDO DE AZUFRE (SO2),https://datosambiente.quito.gob.ec/datos/SO2.rar,/opt/etl/data/remmaq/originales/SO2.rar,extraido,0,2026-02-15T20:38:16.055797+00:00
+- DATOS MONOXIDO CARBONO (CO),https://datosambiente.quito.gob.ec/datos/CO.rar,/opt/etl/data/remmaq/originales/CO.rar,descargado,10267601,2026-02-15T20:53:07.720897+00:00
+- DATOS DIOXIDO DE NITROGENO (NO2),https://datosambiente.quito.gob.ec/datos/NO2.rar,/opt/etl/data/remmaq/originales/NO2.rar,descargado,11782564,2026-02-15T20:53:43.987089+00:00
+- DATOS OZONO (O3),https://datosambiente.quito.gob.ec/datos/O3.rar,/opt/etl/data/remmaq/originales/O3.rar,descargado,12796062,2026-02-15T20:54:30.307918+00:00
+- DATOS PARTICULAS MENORES A 2.5 MICROMETROS (PM2.5),https://datosambiente.quito.gob.ec/datos/PM2.5.rar,/opt/etl/data/remmaq/originales/PM2.5.rar,descargado,10580893,2026-02-15T20:55:11.722608+00:00
+- DATOS PARTICULAS MENORES A 10 MICROMETROSS (PM10),https://datosambiente.quito.gob.ec/datos/PM10.rar,/opt/etl/data/remmaq/originales/PM10.rar,descargado,2978227,2026-02-15T20:55:24.369657+00:00
+- DATOS DIOXIDO DE AZUFRE (SO2),https://datosambiente.quito.gob.ec/datos/SO2.rar,/opt/etl/data/remmaq/originales/SO2.rar,descargado,10021651,2026-02-15T20:55:54.505631+00:00
+- DATOS MONOXIDO CARBONO (CO),https://datosambiente.quito.gob.ec/datos/CO.rar,/opt/etl/data/remmaq/originales/CO.rar,extraido,0,2026-02-15T20:55:54.710774+00:00
+- DATOS DIOXIDO DE NITROGENO (NO2),https://datosambiente.quito.gob.ec/datos/NO2.rar,/opt/etl/data/remmaq/originales/NO2.rar,extraido,0,2026-02-15T20:55:54.938043+00:00
+- DATOS OZONO (O3),https://datosambiente.quito.gob.ec/datos/O3.rar,/opt/etl/data/remmaq/originales/O3.rar,extraido,0,2026-02-15T20:55:55.194341+00:00
+- DATOS PARTICULAS MENORES A 2.5 MICROMETROS (PM2.5),https://datosambiente.quito.gob.ec/datos/PM2.5.rar,/opt/etl/data/remmaq/originales/PM2.5.rar,extraido,0,2026-02-15T20:55:55.483924+00:00
+- DATOS PARTICULAS MENORES A 10 MICROMETROSS (PM10),https://datosambiente.quito.gob.ec/datos/PM10.rar,/opt/etl/data/remmaq/originales/PM10.rar,extraido,0,2026-02-15T20:55:55.603524+00:00
+- DATOS DIOXIDO DE AZUFRE (SO2),https://datosambiente.quito.gob.ec/datos/SO2.rar,/opt/etl/data/remmaq/originales/SO2.rar,extraido,0,2026-02-15T20:55:55.864987+00:00
