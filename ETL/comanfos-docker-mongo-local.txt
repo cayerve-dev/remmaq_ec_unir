@@ -1,5 +1,0 @@
-# 1 Crea un volumen persistente
-docker volume create mongo_data
-
-# 2 Levantar MongoDB
-docker run -d --name mongo -p 27017:27017 -e MONGO_INITDB_ROOT_USERNAME=admin -e MONGO_INITDB_ROOT_PASSWORD=unir2026$ -v mongo_data:/data/db --restart unless-stopped mongo:8.0
