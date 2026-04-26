@@ -140,13 +140,10 @@ pandas · pymongo · openpyxl · geopandas · python-dotenv
 - Credenciales configuradas en variables de entorno (`.env`)
 
 ### 2. Variables de entorno
-
-Crea un archivo `.env` en la raíz del proyecto (nunca lo subas a Git):
-
 ```env
 MONGO_URI=mongodb+srv://<usuario>:<password>@<cluster>.mongodb.net/
-MONGO_DB=remmaq
-MONGO_COLLECTION=mediciones
+MONGO_DB=bd
+MONGO_COLLECTION=colección
 ```
 
 ### 3. Levantar Apache NiFi con Docker
